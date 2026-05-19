@@ -2,6 +2,8 @@
 
 **Live site:** [badestudio.uk](https://badestudio.uk)
 
+**Medium:** [Medium - Technical SEO Checklist](https://medium.com/@badestudiouk/a-technical-seo-checklist-for-2026-what-every-modern-website-needs-a5d7221f075f)
+
 BadeStudio is an Oxford-based custom web design studio building affordable, hand-coded websites for UK small businesses — from £500 one-off, no monthly fees, no WordPress.
 
 ## What we do
